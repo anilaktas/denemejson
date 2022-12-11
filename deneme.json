@@ -1,0 +1,5 @@
+{
+    "name": "C++ Launch (Windows)",
+    "type": "cppvsdbg",
+    "request": "launch"
+  }
